@@ -2,6 +2,10 @@
 > Disclaimer: The information available in any of our repositories are the informatoins available to the common public. We're not SEBI registered analysts. We are just sharing with you what we know from experience in the stock market. Please do your own research before getting into this. We are not liable for any loss made, financial troubles incurred or any other problems.
 >  Made available below is a curatoin of information from different sources (which is linked below) as well as information from personal experience and expertise. If you find any error below, please let us know [here](https://www.instagram.com/shimron.alakkal).
 
+## What is a stock?
+> A stock is a financial instrument that represents ownership in a company or corporation and represents a proportionate claim on its assets (what it owns) and earnings (what it generates in profits). Stocks are also called shares or equity. In short, stocks represent ownership equity in the firm and give shareholders voting rights as well as a residual claim on corporate earnings in the form of capital gains and dividends.
+>  Refer to this [`article`](https://www.investopedia.com/articles/investing/082614/how-stock-market-works.asp) for more info.
+
 ## What is the stock market?
 > A stock market, equity market, or share market is the aggregation of buyers and sellers of stocks (also called shares), which represent ownership claims on businesses; these may include securities listed on a public stock exchange, as well as stock that is only traded privately, such as shares of private companies which are sold to investors through equity crowdfunding platforms. 
 
@@ -17,6 +21,10 @@
 > Stockbrokers, in the current age, are mostly big financial institutions (also known as brokerage firms) who leverages software to execute orders in the market. 
 > Some big stockbrokers include, Robinhood (USA), Zerodha (India), DEGIRO (UK)
 
+## What are the primary roles of a stock exchange?
+> Stock exchanges acts in its role to ensure safe and fair dealings in the stock market, primarily. It also helps in fixation of prices, finding fraudulent activities, inducing good performance by the comapnies etc.
+
+## How does the stock market work?
 
 
 
@@ -26,3 +34,4 @@
 > https://en.wikipedia.org/wiki/Stock_market
 > https://en.wikipedia.org/wiki/Public_company
 > https://www.investopedia.com/terms/s/stockbroker.asp
+> https://www.investopedia.com/articles/investing/082614/how-stock-market-works.asp
