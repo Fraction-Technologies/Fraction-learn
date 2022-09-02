@@ -2,9 +2,13 @@
 🎉 Congratulations 🎉
 You've taken the first step onto becoming a pro.
 
-Learn from the absolute basics of stock market to advanced concepts like pivot points, technical analysis etc. for free. Also, be able to use the [Fraction app](https://play.google.com/store/apps/details?id=com.shimronalakkal.fraction) to find great trades for [free](https://play.google.com/store/apps/details?id=com.shimronalakkal.fraction).
+Learn from the absolute basics of stock market to advanced concepts like pivot points, technical analysis etc. for free. Also, be able to use the [Fraction app](https://play.google.com/store/apps/details?id=com.shimronalakkal.fraction) to your advantage and find great trades for [free](https://play.google.com/store/apps/details?id=com.shimronalakkal.fraction).
 
-## Step 1:  Learn about the basics (if you're a beginner or if you feel like that might help you).
-You could learn the absolute basics about the stock market for free by clicking [here](https://github.com/Fraction-Technologies/Fraction-learn/blob/main/BASICS.md).
- 
+## Step 1: Getting your feet in -- The basic concepts.
+You could learn the absolute basics about the stock market for free by clicking [here -> Chapter 1](https://github.com/Fraction-Technologies/Fraction-learn/blob/main/BASICS.md).
+
+## Step 2: Starting to move -- the next step.
+Once you've gotten an understanding of what some things are from the previous step, you are good to go. In this one, we'll be looking at more advanced concepts that require you to imagine scenarios as well. You'll be provided an example and you'll have to make up one of your own.
+[Chapter 2]()
+
  
