@@ -13,6 +13,10 @@ You could learn the absolute basics about the stock market for free by clicking 
 Once you've gotten an understanding of what some things are from the previous step, you are good to go. In this one, we'll be looking at more advanced concepts that require you to imagine scenarios as well. You'll be provided an example and you'll have to make up one of your own.
 [`Chapter 2`]()
 
+
+#  
+
+
 ## Free documents for you.
 <details>
 <summary>Disclaimer, Terms and Conditions </summary>
