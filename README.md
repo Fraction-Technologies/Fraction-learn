@@ -27,6 +27,6 @@ We do not own or claim to own any of the following documents that are not from u
 
 1. A comprehensive pdf containing lots of valuable information. By Zerodha. Click [here](https://github.com/Fraction-Technologies/Fraction-learn/blob/main/docs/zerodha%20article%201.pdf)
 
-2.
+2. Basic guide to financial markets; a pdf from the Natoinal Stock Exchnage Ltd. Click [here]()
 
 
