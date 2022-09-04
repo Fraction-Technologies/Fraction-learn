@@ -11,8 +11,10 @@ You could learn the absolute basics about the stock market for free by clicking 
 
 ## Step 2: Starting to move -- the next step.
 Once you've gotten an understanding of what some things are from the previous step, you are good to go. In this one, we'll be looking at more advanced concepts that require you to imagine scenarios as well. You'll be provided an example and you'll have to make up one of your own.
-[`Chapter 2`]()
+[`Chapter 2`](https://github.com/Fraction-Technologies/Fraction-learn/blob/main/chapter2.md)
 
+## Step 3: Well, it's chapter 3.
+You can start off with this chapter once you've understood the main concepts in both [`Chapter 1`](https://github.com/Fraction-Technologies/Fraction-learn/blob/main/BASICS.md) and [`Chapter 2`](https://github.com/Fraction-Technologies/Fraction-learn/blob/main/chapter2.md).
 
 #  
 
