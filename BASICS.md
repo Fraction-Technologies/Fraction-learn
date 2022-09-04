@@ -25,13 +25,34 @@
 > Stock exchanges acts in its role to ensure safe and fair dealings in the stock market, primarily. It also helps in fixation of prices, finding fraudulent activities, inducing good performance by the comapnies etc.
 
 ## How does the stock market work?
+> Refer to this article for clear explanation https://www.kotaksecurities.com/ksweb/share-market/how-share-market-works.
 
+## What is SEBI?
+> Established in 1988, SEBI is the governing body for securities and commodity market in India under the ownership of Ministry of Finance , Government of India.
 
+## What is an OHLC chart?
+> A pictorial representation of a stock's price -- primarily in the form of a bar chart -- with an open, high, low, and close price is called an OHLC chart. OHLC charts are useful since they show the four major data points over a period, with the closing price being considered the most important by many traders.
 
+## What are bonds? (An excerpt from Kotak securities' article)
+> Companies need money to undertake projects. They then pay back using the money earned through the project. One way of raising funds is through bonds. When a company borrows from the bank in exchange for regular interest payments, it is called a loan. Similarly, when a company borrows from multiple investors in exchange for timely payments of interest, it is called a bond. Click here to read about the importance of tracking bond yield movements.
 
+> For example, imagine you want to start a project that will start earning money in two years. To undertake the project, you will need an initial amount to get started. So, you acquire the requisite funds from a friend and write down a receipt of this loan saying 'I owe you Rs 1 lakh and will repay you the principal loan amount by five years, and will pay a 5% interest every year until then'. When your friend holds this receipt, it means he has just bought a bond by lending money to your company. You promise to make the 5% interest payment at the end of every year, and pay the principal amount of Rs 1 lakh at the end of the fifth year. Thus, a bond is a means of investing money by lending to others. This is why it is called a debt instrument. When you invest in bonds, it will show the face value – the amount of money being borrowed, the coupon rate or yield – the interest rate that the borrower has to pay, the coupon or interest payments, and the deadline for paying the money back called as the maturity date. If you’re looking for a bond option that helps you save tax, you can read about tax free bonds.
+
+## What are derivatives? (An excerpt from Kotak securities' article)
+> The value of financial instruments like shares keeps fluctuating. So, it is difficult to fix a particular price. Derivatives instruments come handy here.
+
+> These are instruments that help you trade in the future at a price that you fix today. Simply put, you enter into an agreement to either buy or sell a share or other instrument at a certain fixed price. Read more to underdtand how to buy or sell a futures contract
+
+## What are mututal funds? (An excerpt from Kotak securities' article)
+> These are investment vehicles that allow you to indirectly investing in share market market or bonds. It pools money from a collection of investors, and then invests that sum in financial instruments. This is handled by a professional fund manager.
+
+> Every mutual fund scheme issues units, which have a certain value just like a share. When you invest, you thus become a unit-holder. When the instruments that the MF scheme invests in make money, as a unit-holder, you get money.
+
+> This is either through a rise in the value of the units or through the distribution of dividends – money to all unit-holders. Click here to start your journey into mutual funds
 
 #### Sources of information
 > https://en.wikipedia.org/wiki/Stock_market
 > https://en.wikipedia.org/wiki/Public_company
 > https://www.investopedia.com/terms/s/stockbroker.asp
 > https://www.investopedia.com/articles/investing/082614/how-stock-market-works.asp
+> https://www.kotaksecurities.com/ksweb/share-market/share-market-basics
