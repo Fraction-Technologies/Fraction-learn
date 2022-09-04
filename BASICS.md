@@ -48,11 +48,19 @@
 
 > Every mutual fund scheme issues units, which have a certain value just like a share. When you invest, you thus become a unit-holder. When the instruments that the MF scheme invests in make money, as a unit-holder, you get money.
 
-> This is either through a rise in the value of the units or through the distribution of dividends – money to all unit-holders. Click here to start your journey into mutual funds
+> This is either through a rise in the value of the units or through the distribution of dividends – money to all unit-holders. Click here to start your journey into mutual funds.
 
-#### Sources of information
-> https://en.wikipedia.org/wiki/Stock_market
-> https://en.wikipedia.org/wiki/Public_company
-> https://www.investopedia.com/terms/s/stockbroker.asp
-> https://www.investopedia.com/articles/investing/082614/how-stock-market-works.asp
-> https://www.kotaksecurities.com/ksweb/share-market/share-market-basics
+
+#### 🎉 Congrats on finishing chapter 1. You're now good to go to chapter 2 where you'll be learning more advanced concepts. Good luck. 🎉
+
+<details>
+ <summary> Sources of information </summary>
+  <br>
+ https://en.wikipedia.org/wiki/Stock_market
+ https://en.wikipedia.org/wiki/Public_company
+ https://www.investopedia.com/terms/s/stockbroker.asp
+ https://www.investopedia.com/articles/investing/082614/how-stock-market-works.asp
+ https://www.kotaksecurities.com/ksweb/share-market/share-market-basics
+ https://en.wikipedia.org/wiki/Securities_and_Exchange_Board_of_India
+  </br>
+</details>
