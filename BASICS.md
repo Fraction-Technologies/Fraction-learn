@@ -1,6 +1,12 @@
 # Welcome to your first lesson, THE BASICS OF STOCK MARKET.
-> Disclaimer: The information available in any of our repositories are the informatoins available to the common public. We're not SEBI registered analysts. We are just sharing with you what we know from experience in the stock market. Please do your own research before getting into this. We are not liable for any loss made, financial troubles incurred or any other problems.
->  Made available below is a curatoin of information from different sources (which is linked below) as well as information from personal experience and expertise. If you find any error below, please let us know [here](https://www.instagram.com/shimron.alakkal).
+<details>
+ <summary>Disclaimer</summary>
+ <br>
+Disclaimer: The information available in any of our repositories are the informatoins available to the common public. We're not SEBI registered analysts. We are just sharing with you what we know from experience in the stock market. Please do your own research before getting into this. We are not liable for any loss made, financial troubles incurred or any other problems.
+Made available below is a curatoin of information from different sources (which is linked below) as well as information from personal experience and expertise. If you find any error below, please let us know [here](https://www.instagram.com/shimron.alakkal).
+ </br>
+</details>
+
 
 ## What is a stock?
 > A stock is a financial instrument that represents ownership in a company or corporation and represents a proportionate claim on its assets (what it owns) and earnings (what it generates in profits). Stocks are also called shares or equity. In short, stocks represent ownership equity in the firm and give shareholders voting rights as well as a residual claim on corporate earnings in the form of capital gains and dividends.
@@ -30,8 +36,22 @@
 ## What is SEBI?
 > Established in 1988, SEBI is the governing body for securities and commodity market in India under the ownership of Ministry of Finance , Government of India.
 
+## What are stock charts?
+> It is a graphical representation of how a stock’s price or trading volumes have changed over time. It is displayed to the user in the form of a graph in a software app that enables stock market participants to understand the stock's performance.
+> ![Image of a chart](https://www.kotaksecurities.com/resources/images/Role-of-stock-chart/img3.jpg)
+
 ## What is an OHLC chart?
 > A pictorial representation of a stock's price -- primarily in the form of a bar chart -- with an open, high, low, and close price is called an OHLC chart. OHLC charts are useful since they show the four major data points over a period, with the closing price being considered the most important by many traders.
+
+> ![image of an OHLC chart](https://2ndskiesforex.com/wp-content/uploads/2009/12/Chris-Capre-Bullish-and-Bearish-Candles.png)
+
+## What is Nifty or Sensex?
+> These are stock indices of the Indian stock market that are there to provide the investors with an idea of the stock market's performance in general.
+
+## What are stock market indices or stock indices?
+> In finance, a stock index, or stock market index, is an index that measures a stock market, or a subset of the stock market, that helps investors compare current stock price levels with past prices to calculate market performance.
+> ![Nifty 50](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NIFTY_50_Graph.png/440px-NIFTY_50_Graph.png)
+
 
 ## What are bonds? (An excerpt from Kotak securities' article)
 > Companies need money to undertake projects. They then pay back using the money earned through the project. One way of raising funds is through bonds. When a company borrows from the bank in exchange for regular interest payments, it is called a loan. Similarly, when a company borrows from multiple investors in exchange for timely payments of interest, it is called a bond. Click here to read about the importance of tracking bond yield movements.
@@ -51,7 +71,10 @@
 > This is either through a rise in the value of the units or through the distribution of dividends – money to all unit-holders. Click here to start your journey into mutual funds.
 
 
-#### 🎉 Congrats on finishing chapter 1. You're now good to go to chapter 2 where you'll be learning more advanced concepts. Good luck. 🎉
+# 
+
+
+#### 🎉 Congrats on finishing chapter 1. You're now good to go to chapter 2 where you'll be learning more advanced concepts. Good luck.
 
 <details>
  <summary> Sources of information </summary>
@@ -62,5 +85,6 @@
  https://www.investopedia.com/articles/investing/082614/how-stock-market-works.asp
  https://www.kotaksecurities.com/ksweb/share-market/share-market-basics
  https://en.wikipedia.org/wiki/Securities_and_Exchange_Board_of_India
+ https://en.wikipedia.org/wiki/Stock_market_index
   </br>
 </details>
