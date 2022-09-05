@@ -16,10 +16,9 @@ Made available below is a curatoin of information from different sources (which 
   Domestic Asset Management Companies (AMC) – Typical participants in this category would be the mutual fund companies such as SBI Mutual Fund, DSP Black Rock, Fidelity Investments, HDFC AMC, etc.
   Foreign Institutional Investors – Non-Indian corporate entities. These could be foreign asset management companies, hedge funds, and other investors.
   Now, irrespective of the category of market participant, everyone’s agenda is the same – to make profitable transactions. More bluntly put – to make money.
-
-  When money is involved, human emotions in the form of greed and fear run high. One can easily fall prey to these emotions and get involved in unfair practices. India has its fair share of such twisted practices, thanks to Harshad Mehta’s operations and the like.
-
-  Given this, the stock markets need someone who can set the game rules (commonly referred to as regulation and compliance) and ensure that people adhere to these regulations and compliance thereby making the markets a level playing field for everyone.>
+  
+> When money is involved, human emotions in the form of greed and fear run high. One can easily fall prey to these emotions and get involved in unfair      practices. India has its fair share of such twisted practices, thanks to Harshad Mehta’s operations and the like.
+ Given this, the stock markets need someone who can set the game rules (commonly referred to as regulation and compliance) and ensure that people adhere to these regulations and compliance thereby making the markets a level playing field for everyone.>
 
 
 
@@ -49,7 +48,6 @@ Made available below is a curatoin of information from different sources (which 
 
 
 
-
 ## What are NSCCL & ICCL? What do they do? (article from Zerodha varsity)
 > NSCCL – National Security Clearing Corporation Ltd and Indian Clearing Corporation are wholly owned subsidiaries of National Stock Exchange and Bombay Stock Exchange.
 
@@ -59,9 +57,8 @@ Made available below is a curatoin of information from different sources (which 
 
 > For all practical purposes, it’s ok not to know much about NSCCL or ICCL simply because, you as a trader or investor would not be interacting with these agencies directly. You need to be aware that certain professional institutions are heavily regulated and work towards a smooth settlement and efficient clearing activity.
 
-## What 
 
-#### 🎉 Congrats!! You're set to go to the next chapter. [`Chapter 3`]()
+#### 🎉 Congrats!! You're set to go to the next chapter. [`Chapter 3`](https://github.com/Fraction-Technologies/Fraction-learn/edit/main/chapter3.md)
 
 
 <details>
